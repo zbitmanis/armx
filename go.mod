@@ -1,3 +1,3 @@
-module github.com/zbitmanis/armx
+module armx
 
 go 1.23.2
