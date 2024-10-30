@@ -1,4 +1,4 @@
-package apirmx
+package armx
 
 import (
    "encoding/json"
