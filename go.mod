@@ -1,3 +1,3 @@
-module github.com/zbitmanis/armx
+module github.com/zbitmanis/apirmx
 
 go 1.23.2
